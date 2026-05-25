@@ -17,3 +17,17 @@ Learning is a mobile learning application designed for students to access course
 
 ## Figma Prototype Link
 https://www.figma.com/design/eosko7wrhaEiCryLn7xRS9/Learning-App?node-id=0-1&t=4YymwMOfSFc0eaX0-1
+
+## Task 2 – High Fidelity UI
+
+Designed a polished high-fidelity version of the "Learning" learning app using Figma.
+
+### Added Improvements
+- Modern UI styling
+- Better navigation
+- Course progress tracking
+- Improved typography
+- Enhanced course cards
+
+### Figma Prototype Link
+https://www.figma.com/design/Zgshvh0TJw6olJbfeahT8g/LearningApp-HighFidelity?node-id=0-1&t=9LKhAeYyZdhS6a04-1
